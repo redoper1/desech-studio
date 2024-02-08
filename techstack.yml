@@ -1,0 +1,424 @@
+repo_name: redoper1/desech-studio
+report_id: f359dc119f50a703008b96785aaed17a
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-08T20:03:47+00:00'
+requested_by: cata-code
+provider: github
+branch: master
+detected_tools_count: 30
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/redoper1/desech-studio
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  version: 4.7.7
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/redoper1/desech-studio
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 16.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2022-01-29 17:10:13.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/redoper1/desech-studio
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.74.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2022-09-13 19:28:31.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 19.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-12-10 12:30:07.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-07-21 13:18:08.000000000 Z
+- name: adm-zip
+  description: Javascript implementation of zip for nodejs with support for electron
+    original-fs
+  package_url: https://www.npmjs.com/adm-zip
+  version: 0.5.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16663/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-11-08 12:47:14.000000000 Z
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: circular-dependency-plugin
+  description: Detect modules with circular dependencies when bundling with webpack
+  package_url: https://www.npmjs.com/circular-dependency-plugin
+  version: 5.2.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17612/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: clean-css
+  description: A well-tested CSS minifier
+  package_url: https://www.npmjs.com/clean-css
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16486/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2022-01-29 17:10:13.000000000 Z
+- name: csv
+  description: CSV parser with simple api
+  package_url: https://www.npmjs.com/csv
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: electron-builder
+  description: A complete solution to package and build a ready for distribution Electron
+    app for MacOS
+  package_url: https://www.npmjs.com/electron-builder
+  version: 22.14.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17567/default_cce6af1cc5c037d170650dfd256f479915d5a8e4.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2022-01-29 17:10:13.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-05-07 23:34:35.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-09-30 21:28:56.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: html-minifier
+  description: Highly configurable
+  package_url: https://www.npmjs.com/html-minifier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16552/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-07-21 13:18:08.000000000 Z
+- name: jimp
+  description: An image processing library written entirely in JavaScript
+  package_url: https://www.npmjs.com/jimp
+  version: 0.16.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16902/default_3260e41a86e21f9dd1deddcf0a6e09720ec49021.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: js-beautify
+  description: Beautifier.io for node
+  package_url: https://www.npmjs.com/js-beautify
+  version: 1.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16340/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-09-07 19:12:49.000000000 Z
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2022-01-17 13:05:02.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/app/package-lock.json
+  detection_source: app/package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-09-30 21:28:56.000000000 Z
+  vulnerabilities:
+  - name: node-fetch forwards secure headers to untrusted sites
+    cve_id: CVE-2022-0235
+    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
+    detected_date: Jan 22
+    severity: high
+    first_patched: 2.6.7
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2021-03-17 19:49:24.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2022-09-13 19:28:31.000000000 Z
+- name: webpack-node-externals
+  description: Easily exclude node_modules in Webpack bundle
+  package_url: https://www.npmjs.com/webpack-node-externals
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16156/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/redoper1/desech-studio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: catalin
+  last_updated_on: 2022-09-13 19:28:31.000000000 Z
